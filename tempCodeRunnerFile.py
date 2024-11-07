@@ -1,1 +1,0 @@
-TRAEME nombre DE LA TABLA empleados DONDE EXISTE (TRAEME 1 DE LA TABLA proyectos DONDE id = departamento_id)
