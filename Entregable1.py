@@ -53,6 +53,3 @@ possibleValues = [i for i in range(0,len(file))]
 generator = question_generator(possibleValues)
   
 print(preguntador(generator,0))
-
-
-
